@@ -1,7 +1,7 @@
 # Other Service Analysis
 
 ## Incident Date
-- 10-Sep-2018
+* 10/09/2018
 
 ## Incident Description
 1. My refrigerator was not cooling.
@@ -13,7 +13,7 @@
 - Refrigrator Engineer
 
 ## Incident Allotment Date
-- 10-sep-2018
+- 10/09/2018
 
 ## Incident Status
 - Pending
