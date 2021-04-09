@@ -1,7 +1,7 @@
 # Other Service Analysis
 
 ## Incident Date
-- 10-Sep-2018
+%10-Sep-2018
 
 ## Incident Description
 1. My refrigerator was not cooling.
