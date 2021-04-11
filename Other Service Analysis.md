@@ -1,7 +1,7 @@
 # Other Service Analysis
 ---------
 ## Incident Date
-* 10/09/2018
+- 10/09/2018
 ---------
 ## Incident Description
 1. My refrigerator was not cooling.
@@ -10,17 +10,25 @@
 4. And then the next day the refrigerator was not getting cold even then I called the refrigerator engineer again and I said that the refrigerator is still not cold, then the engineer checked again and said that the compressor of my refrigerator is no longer working . Then the engineer said that now you change the compressor.
 -----------------------------------------------
 ## Incident Alloted To
-- Refrigrator Engineer
+```
+  Refrigrator Engineer
+```
 ----------
 ## Incident Allotment Date
 - 10/09/2018
 -----------
 ## Incident Status
-- Pending
+ ```
+   Pending
+ ```
 -----------
 ## Incident Resolution Date
-- Stiil Pending
+```
+  Stiil Pending
+```
 -----------
 ## Incident Experience
-- Not Satisfactory
+```
+Not Satisfactory
+```
 -----------
