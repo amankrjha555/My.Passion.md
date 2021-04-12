@@ -6,10 +6,14 @@
 - **Noodles**
 - **Veg Rice** 
 - **Cake** 
--  **Dhosa** 
+- **Dhosa** 
 - **Sandwiches** 
 - **Chicken**
 
+
+
+# Career Objective
+- I want to work with such an organization where I can improve my skills as well as benefited the organization
 
 
 # Academic Qualification 
@@ -20,11 +24,11 @@
 
 ### :technologist: I'm currently working on:
 
-- Linux, Docker, Apache, Mail Server
+- I am currently in working keen & able company as a intern.
 
 ### :nerd_face: I'm currently learning:
 
-- Docker
+- Github
 
 ### :thinking: I want to learn:
 
