@@ -73,15 +73,6 @@
   </ul>
 </details>
 
-<details>
-  <summary> My Detail</summary>
-  <ul>
-    <br>
-    <li> Name : Aman Kumar Jha </li>
-    <li> Contect No : 8010062008 </li>
-    <li> Email Id : amankumar.x.jha@fosteringlinux.com
-  </ul>
-</details>
 
 ```
      Thank You
