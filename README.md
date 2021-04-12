@@ -17,7 +17,7 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
 </details>
 
 <details>
-  <summary> Academic Qualification </summary>
+  <summary> ACADEMIC QUALIFICATION </summary>
   <ul>
     <br>
     <li> 10th Passed from CBSE Board in 2016 </li>
@@ -27,9 +27,18 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
 </details>
 
 
+<details>
+  <summary> TECHNICAL SKILLS </summary>
+  <ul>
+    <br>
+    <li> OS : Linux </li>
+    <li> Basic Knowledge of computer </li>
+  </ul>
+</details>
+
 
 <details>
-  <summary> Work Experience </summary>
+  <summary> WORK EXPERIENCE </summary>
   <ul>
     <br>
     <li> Fresher </li>
@@ -39,7 +48,7 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
 
 
 <details>
-  <summary> Personal Details </summary>
+  <summary> PERSONAL DETAILS </summary>
   <ul>
     <br>
     <li> Father’s Name     :    Mr. Narendra Jha </li>
