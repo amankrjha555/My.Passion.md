@@ -31,9 +31,18 @@
 - Open Stack
 - Open Shift
 
-### Outside of coding I enjoy:
+<details>
+  <summary> Personal Details </summary>
+  <ul>
+    <br>
+    <li> Father’s Name     :    Mr. Narendra Jha </li>
+    <li> Date of Birth     :    18/01/2000 </li>
+    <li> Nationality       :    Indian </li>
+    <li> Religion          :    Hindu </li>
+    <li> Gender            :    Male </li>
+    <li> Marital Status    :    Unmarried </li>
+    <li> Language Known    :    Hindi & English </li>
+  </ul>
+</details>
 
-- Playing video games :video_game:
-- Skateboarding :skateboard:
-- Bowling :bowling:
-- Sci-fi movies/tv shows :vulcan_salute:
+
