@@ -20,8 +20,6 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
   <summary> ACADEMIC QUALIFICATION </summary>
   <ul>
     <br>
-    <li> 10th Passed from CBSE Board in 2016 </li>
-    <li> 12th Passed from NIOS Board in 2019 </li>
     <li> BCA (1st year ) Pursuing from IGNOU </li>
   </ul>
 </details>
