@@ -15,6 +15,7 @@
   <ul>
     <br>
     <li> Name : Aman Kumar Jha </li>
+    <li> Address: House No-69, Near Peepal Chowk Dallupura Village East Delhi 110096 </li>
     <li> Contect No : 8010062008 </li>
     <li> Email Id : amankumar.x.jha@fosteringlinux.com
   </ul>
@@ -67,9 +68,7 @@
     <li> Date of Birth     :    18/01/2000 </li>
     <li> Nationality       :    Indian </li>
     <li> Religion          :    Hindu </li>
-    <li> Gender            :    Male </li>
-    <li> Marital Status    :    Unmarried </li>
-    <li> Language Known    :    Hindi & English </li>
+    <li> My Hobbies        :    Playing Cricket </li>
   </ul>
 </details>
 
