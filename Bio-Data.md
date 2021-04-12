@@ -10,7 +10,15 @@
 - **Sandwiches** 
 - **Chicken**
 
-
+<details>
+  <summary> My Bio-data </summary>
+  <ul>
+    <br>
+    <li> Name : Aman Kumar Jha </li>
+    <li> Contect No : 8010062008 </li>
+    <li> Email Id : amankumar.x.jha@fosteringlinux.com
+  </ul>
+</details>
 
 # Career Objective
 - I want to work with such an organization where I can improve my skills as well as benefited the organization
@@ -37,6 +45,12 @@
 - Kubernative
 - Open stack 
 
+## Technical Skills
+- Basic Knowledge of Linux.
+- I have knowledge of Apache web server and virtual hosting.
+- Knowledge of Installation in OS.
+- Basic knowledge about Docker.
+
 <details>
   <summary> Work Experience </summary>
   <ul>
@@ -56,6 +70,16 @@
     <li> Gender            :    Male </li>
     <li> Marital Status    :    Unmarried </li>
     <li> Language Known    :    Hindi & English </li>
+  </ul>
+</details>
+
+<details>
+  <summary> My Detail</summary>
+  <ul>
+    <br>
+    <li> Name : Aman Kumar Jha </li>
+    <li> Contect No : 8010062008 </li>
+    <li> Email Id : amankumar.x.jha@fosteringlinux.com
   </ul>
 </details>
 
