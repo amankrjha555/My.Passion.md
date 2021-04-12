@@ -37,6 +37,14 @@
 - Open Shift
 
 <details>
+  <summary> Work Experience </summary>
+  <ul>
+    <br>
+    <li> Fresher </li>
+  </ul>
+</details>
+
+<details>
   <summary> Personal Details </summary>
   <ul>
     <br>
