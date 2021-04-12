@@ -19,7 +19,7 @@
 
 ### :technologist: I'm currently working on:
 
-- Linux, Docker, Ansible, Mail Server, Apache
+- Linux, Docker, Apache, Mail Server
 
 ### :nerd_face: I'm currently learning:
 
