@@ -16,6 +16,55 @@ A sophomore at  <a href="http://www.hdu.edu.cn" target="_blank" >Hangzhou Dianzi
   </ul>
 </details>
 
+<details>
+  <summary> Academic Qualification </summary>
+  <ul>
+    <br>
+    <li> 10th Passed from CBSE Board in 2016 </li>
+    <li> 12th Passed from NIOS Board in 2019 </li>
+    <li> BCA (1st year ) Pursuing from IGNOU </li>
+  </ul>
+</details>
+
+
+
+<details>
+  <summary> Work Experience </summary>
+  <ul>
+    <br>
+    <li> Fresher </li>
+  </ul>
+</details>
+
+
+
+<details>
+  <summary> Personal Details </summary>
+  <ul>
+    <br>
+    <li> Father’s Name     :    Mr. Narendra Jha </li>
+    <li> Date of Birth     :    18/01/2000 </li>
+    <li> Nationality       :    Indian </li>
+    <li> Religion          :    Hindu </li>
+    <li> Gender            :    Male </li>
+    <li> Marital Status    :    Unmarried </li>
+    <li> Language Known    :    Hindi & English </li>
+  </ul>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🌱 Challenges that I’m currently challenging myself:
 <details>
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
