@@ -24,7 +24,7 @@
 
 ### :technologist: I'm currently working on:
 
-- I am currently in working keen & able company as a intern.
+- I am currently in working Keen & Able Computer Pvt. Ltd. Company as a intern.
 
 ### :nerd_face: I'm currently learning:
 
