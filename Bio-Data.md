@@ -29,12 +29,13 @@
 ### :nerd_face: I'm currently learning:
 
 - Github
+- Markdown
 
 ### :thinking: I want to learn:
 
+- Docker
 - Kubernative
-- Open Stack
-- Open Shift
+- Open stack 
 
 <details>
   <summary> Work Experience </summary>
@@ -58,4 +59,6 @@
   </ul>
 </details>
 
-
+```
+     Thank You
+```
