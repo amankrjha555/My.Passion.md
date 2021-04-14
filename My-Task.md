@@ -34,7 +34,7 @@ COUNTIF(C4:J4,"Poor")*0)/COUNTA(C4:J4)
 | **SNO.**| **Test Case**| **Description**| **Status**|
 | :---:    | :---:        |:---            |  :----:   |
 | **1**| **Average value**| **I give the excellent word to puntuallity,and give the very good word to time management,and give the Good word to Attendance, and give the Satisfactory word to Communication, and give the Fair word to Requirement analysis, and give tha poor word to  self learning, and give tha different word to all values.**| **Passed**|
-| **2**| **Condition**| ** I applied the condition when average value is less than 2.5 then colour will be red.**| **Passed**|
+| **2**| **Condition**| **I applied the condition when average value is less than 2.5 then colour will be red.**| **Passed**|
 
 ## Conclusion
 + I have done my task with helped in google.
