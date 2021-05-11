@@ -1,0 +1,63 @@
+/usr/bin/date DOWNLOADING 
+/usr/bin/date DOWNLOADED SUCCESSFULLY
+Wed May 12 03:57:35 IST 2021 [count commas] count the no of commas before the Intern name 1
+Wed May 12 03:57:36 IST 2021 [add 1 in the previous result of commas] 1
+Wed May 12 03:57:36 IST 2021 [total commas for extract the Intern name column ] 2
+Wed May 12 03:57:36 IST 2021 [count commas] count the no of commas before the Average 10
+Wed May 12 03:57:36 IST 2021 [add 1 in the total no of commas before average column to get the exact average column] 1
+Wed May 12 03:57:36 IST 2021 [commas for extract the average column] 11
+/usr/bin/date DOWNLOADING /home/amanjha/script/sheet1.csv
+/usr/bin/date /home/amanjha/script/sheet1.csvDOWNLOADED SUCCESSFULLY
+/usr/bin/date/home/amanjha/script/sheet1.csvRUN SUCCESSFULLY
+/usr/bin/date DOWNLOADING /home/amanjha/script/sheet1.csv
+/usr/bin/date /home/amanjha/script/sheet1.csvDOWNLOADED SUCCESSFULLY
+/usr/bin/date /home/amanjha/script/sheet1.csv
+/usr/bin/date/home/amanjha/script/sheet1.csvRUN SUCCESSFULLY
+/usr/bin/date DOWNLOADING /home/amanjha/script/sheet1.csv
+/usr/bin/date /home/amanjha/script/sheet1.csvDOWNLOADED SUCCESSFULLY
+/usr/bin/date /home/amanjha/script/sheet1.csv
+/usr/bin/date/home/amanjha/script/sheet1.csvRUN SUCCESSFULLY
+/usr/bin/date DOWNLOADING /home/amanjha/script/sheet1.csv
+/usr/bin/date /home/amanjha/script/sheet1.csvDOWNLOADED SUCCESSFULLY
+/usr/bin/date /home/amanjha/script/sheet1.csv
+/usr/bin/date/home/amanjha/script/sheet1.csvRUN SUCCESSFULLY
+/usr/bin/date [count commas] count the no of commas before the Intern name 1
+Wed May 12 04:33:28 IST 2021 [add 1 in the previous result of commas] 1
+Wed May 12 04:33:28 IST 2021 [total commas for extract the Intern name column ] 2
+Wed May 12 04:33:28 IST 2021 [count commas] count the no of commas before the Average 10
+Wed May 12 04:33:28 IST 2021 [add 1 in the total no of commas before average column to get the exact average column] 1
+Wed May 12 04:33:28 IST 2021 [commas for extract the average column] 11
+/usr/bin/date [count commas] count the no of commas before the Intern name 1
+Wed May 12 04:36:05 IST 2021 [add 1 in the previous result of commas] 1
+Wed May 12 04:36:05 IST 2021 [total commas for extract the Intern name column ] 2
+Wed May 12 04:36:05 IST 2021 [count commas] count the no of commas before the Average 10
+Wed May 12 04:36:05 IST 2021 [add 1 in the total no of commas before average column to get the exact average column] 1
+Wed May 12 04:36:05 IST 2021 [commas for extract the average column] 11
+/usr/bin/date [count commas] count the no of commas before the Intern name 1
+Wed May 12 04:36:11 IST 2021 [add 1 in the previous result of commas] 1
+Wed May 12 04:36:11 IST 2021 [total commas for extract the Intern name column ] 2
+Wed May 12 04:36:11 IST 2021 [count commas] count the no of commas before the Average 10
+Wed May 12 04:36:11 IST 2021 [add 1 in the total no of commas before average column to get the exact average column] 1
+Wed May 12 04:36:11 IST 2021 [commas for extract the average column] 11
+/usr/bin/date [count commas] count the no of commas before the Intern name 1
+Wed May 12 04:38:31 IST 2021 [add 1 in the previous result of commas] 1
+Wed May 12 04:38:31 IST 2021 [total commas for extract the Intern name column ] 2
+Wed May 12 04:38:31 IST 2021 [count commas] count the no of commas before the Average 10
+Wed May 12 04:38:31 IST 2021 [add 1 in the total no of commas before average column to get the exact average column] 1
+Wed May 12 04:38:31 IST 2021 [commas for extract the average column] 11
+Wed May 12 04:38:31 IST 2021 [output for sheet 1] successfully print sheet1 the required output
+/usr/bin/date [count commas] count the no of commas before the Intern name 1
+Wed May 12 04:44:25 IST 2021 [add 1 in the previous result of commas] 1
+Wed May 12 04:44:25 IST 2021 [total commas for extract the Intern name column ] 2
+Wed May 12 04:44:25 IST 2021 [count commas] count the no of commas before the Average 10
+Wed May 12 04:44:25 IST 2021 [add 1 in the total no of commas before average column to get the exact average column] 1
+Wed May 12 04:44:25 IST 2021 [commas for extract the average column] 11
+Wed May 12 04:44:25 IST 2021 [output for sheet 1] successfully print sheet1 the required output
+Wed May 12 04:44:27 IST 2021 [wget command] download the csv file using wget command /usr/bin/wget -q 
+Wed May 12 04:44:27 IST 2021 [count comma for intername] count the no of commas before the Intern name 1
+Wed May 12 04:44:27 IST 2021 [add 1 in the total no of commas before Intern name column to get the exact Intern name column] 1
+Wed May 12 04:44:27 IST 2021 [total commas for intername] download sheet2 csv file using this command 2
+Wed May 12 04:44:27 IST 2021 [count commas] count the no of commas before the Average 10
+Wed May 12 04:44:27 IST 2021 [add 1 for Average] download sheet2 csv file using this command 1
+Wed May 12 04:44:27 IST 2021 [commas for extract the average column] 11
+Wed May 12 04:44:27 IST 2021 [output for sheet 2] successfully print sheet2 the required output
