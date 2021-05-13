@@ -1,7 +1,5 @@
 # How To Ask Questions The Smart Way
 * If we ask any question to anyone, then they should ask clear and well understood.
- 
-* More generally, if you write like a semi-literate owl, you will be ignored a lot. 
 
 * Use tips such as doing a Google search on the text of any error message you receive (use Google Groups as well as web pages). It may well take you right to fix the authentication or mailing list thread that is answering your question. 
 
