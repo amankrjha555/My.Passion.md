@@ -18,5 +18,29 @@ Smart:
 Smarter:
 
     X.org 6.8.1 mouse cursor on Fooware MV1005 vid. chipset - is misshapen
-# How you ask is as important as what you ask.
-* When you ask questions, you should be acutely aware that you are defining the parameters of your curiosity or ignorance. This definition is what guides the person designated to answer the question.
+    
+## What we ask is as important as what we ask ?
+* When we ask questions, we should be fully aware that we are defining the parameters of our curiosity or ignorance. This definition is one that directs the designated person to answer the question.
+
+## Before You Ask
+##### Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
+
+    Try to find an answer by searching the Web.
+
+    Try to find an answer by reading the manual.
+
+    Try to find an answer by reading a FAQ.
+
+    Try to find an answer by inspection or experimentation.
+
+    Try to find an answer by asking a skilled friend.
+
+    If you're a programmer, try to find an answer by reading the source code
+
+ * When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have learned from doing these things. We like answering questions for people who have demonstrated they can learn from the answers.
+
+* Prepare your question. Think it through. Hasty-sounding questions get hasty answers, or none at all. The more you do to demonstrate that having put thought and effort into solving your problem before seeking help, the more likely you are to actually get help.
+
+`
+      Thank You
+`   
