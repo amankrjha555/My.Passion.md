@@ -1,44 +1,21 @@
-# How To Ask Questions The Smart Way
-* If we ask any question to anyone, then they should ask clear and well understood.
+# सवाल कैसे पूछें उसका स्मार्ट तरीका?
 
-* Use tips such as doing a Google search on the text of any error message you receive (use Google Groups as well as web pages). It may well take you right to fix the authentication or mailing list thread that is answering your question. 
+* जब हम सवाल पूछते हैं, तो हमें इस बात की पूरी जानकारी होनी चाहिए कि हम कोई भी सवाल को गलत ना लिखे और गलत ना बोले जिससे कोई व्यक्ति उस सवाल का उत्तर देने में सक्षम ना हो। 
+  
+## हमे किसी से पूछने पहले जैसे:
+* ई-मेल द्वारा, या किसी समाचार समूह में, या वेबसाइट चैट बोर्ड पर कोई समस्या का सवाल पूछने से पहले, निम्न कार्य करना चाहिए:-
+* गूगल पर सवाल के उत्तर खोजने का प्रयास करना चाहिए।
 
-* One good convention for subject headers, used by many tech support organizations, is “object - deviation”. The “object” part specifies what thing or group of things is having a problem, and the “deviation” part describes the deviation from expected behavior.
+* मैनुअल पढ़कर भी सवाल के उत्तर खोजने का प्रयास करना चाहिए।
 
-### Example:-
+* किसी कुशल मित्र से पूछकर सवाल के उत्तर खोजने का प्रयास करना चाहिए।
 
-Stupid:
+* यदि आप एक प्रोग्रामर हैं, तो स्रोत कोड पढ़कर उत्तर खोजने का प्रयास करना चाहिए।
 
-    HELP! Video doesn't work properly on my laptop!
-Smart:
 
-    X.org 6.8.1 misshapen mouse cursor, Fooware MV1005 vid. chipset
-Smarter:
+* हमे अपना सवाल तैयार करने से पहले अच्छी तरह सोच लेना चाहिए क्योंकी जल्दबाजी में सवाल पूछने से हमारे सवालों के जवाब भी जल्दबाजी में मिलते हैं, या बिल्कुल नहीं मिलते हैं। इस लिए हमे अपनी समस्या का हल पूछने से पहले हमे सोचकर और प्रयास कर के पूछना चाहिए। ताकि तभी हमे हमारे सवालों का उत्तर मिल सके। 
 
-    X.org 6.8.1 mouse cursor on Fooware MV1005 vid. chipset - is misshapen
-    
-## What we ask is as important as what we ask ?
-* When we ask questions, we should be fully aware that we are defining the parameters of our curiosity or ignorance. This definition is one that directs the designated person to answer the question.
+* जब हम कोई भी मेल करते है। तो हमें विषय वाले शीर्षक में किस चीज़ या चीज़ों के समूह में समस्या है तो हमे अपनी विषय पंक्ति को अपने सवाल को इतनी अच्छी तरह से प्रतिबिंबित करना चाहिए। ताकि कोई भी विषय वाले भाग को देखे तो उसको पता चल जाये की हमने किस समस्या के लिए मेल किया है। ताकि वो उत्तर देने के लिए सक्षम हो। 
 
-## Before You Ask
-##### Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
 
-    Try to find an answer by searching the Web.
-
-    Try to find an answer by reading the manual.
-
-    Try to find an answer by reading a FAQ.
-
-    Try to find an answer by inspection or experimentation.
-
-    Try to find an answer by asking a skilled friend.
-
-    If you're a programmer, try to find an answer by reading the source code
-
- * When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have learned from doing these things. We like answering questions for people who have demonstrated they can learn from the answers.
-
-* Prepare your question. Think it through. Hasty-sounding questions get hasty answers, or none at all. The more you do to demonstrate that having put thought and effort into solving your problem before seeking help, the more likely you are to actually get help.
-
-`
-      Thank You
-`   
+ 
